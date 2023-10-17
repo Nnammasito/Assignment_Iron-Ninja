@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\bin\Debug\net7.0\Assignment_Iron-Ninja.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\bin\Debug\net7.0\Assignment_Iron-Ninja.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\bin\Debug\net7.0\Assignment_Iron-Ninja.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\bin\Debug\net7.0\Assignment_Iron-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\bin\Debug\net7.0\Assignment_Iron-Ninja.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\refint\Assignment_Iron-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\Assignment_Iron-Ninja.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Iron-Ninja\obj\Debug\net7.0\ref\Assignment_Iron-Ninja.dll
